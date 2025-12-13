@@ -1,5 +1,5 @@
 ## Hi, I'm Sejoon 👋
 
-I build and design things.<br>
-Co-Founder of Nitrode, YC W25.<br>
-Stanford BS/MS CS & Product Design.
+i build and design things.<br>
+co-founder of nitrode (yc w25).<br>
+stanford bs/ms cs + product design.
